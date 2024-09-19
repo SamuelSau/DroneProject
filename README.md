@@ -20,7 +20,7 @@ Wanted to create my own custom drone using a STM32 board, STM32F446RE-Nucleo boa
 
 ## CI
 
-Enforcing CI with docker and GitHub actions to use cppcheck as static analysis
+Enforcing CI with Docker and GitHub Actions for testing purposes such as unit tests
 
 ## Materials of purchase
 
